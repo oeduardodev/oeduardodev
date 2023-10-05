@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/SEUUSUARIO/SEUREPOSITORIO/blob/main/assets/logo.png" alt="Logo" width="200" height="200">
-</p>
+
 
 <h1 align="center">Eduardo Leite</h1>
 
