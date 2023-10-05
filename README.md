@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/oeduardodev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/oeduardode" target="_blank">
+  <a href="https://github.com/oeduardodev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
