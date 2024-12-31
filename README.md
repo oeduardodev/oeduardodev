@@ -19,7 +19,7 @@
 
 Olá pessoal, meu nome é Eduardo Leite, e sou um entusiasta da programação com quase 2 anos de experiência. Iniciei minha jornada aprendendo a lógica de programação em Python 🐍 e, em seguida, mergulhei no desenvolvimento web com HTML 🌐 e CSS 🎨. Para tornar minhas aplicações web mais robustas, aprendi JavaScript 🚀 e estou constantemente aprimorando minhas habilidades.
 
-Atualmente, estou focado em aprofundar meu conhecimento em Node.js 🚀 e React.js ⚛️, duas tecnologias que considero incríveis para o desenvolvimento web. Além disso, já tive experiência com SQL 📊 e MySQL 🐬, e sou familiarizado com TypeScript 🦄. Também trabalhei com diversas bibliotecas interessantes, incluindo React Router 🔄, ESLint 🧹, Styled Components 💅, Zod 📦 e muitas outras.
+Estou há mais de 1 ano, atuo com Angular e TypeScript, utilizando regularmente a biblioteca Nebular. Embora minha paixão seja o desenvolvimento front-end, também possuo experiência no back-end, onde desenvolvi projetos de estudo utilizando frameworks como Adonis.js e Express.js. Como parte desses projetos, tive contato com tecnologias de banco de dados, como PostgreSQL e MySQL.
 
 ## Habilidades
 
