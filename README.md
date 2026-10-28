@@ -17,8 +17,14 @@
 
 ## Sobre mim
 
-Desenvolvedor Frontend Júnior com 2 anos de experiência, formado em Análise e Desenvolvimento de Sistemas. Atualmente, expandindo meus conhecimentos em Backend para me tornar um profissional Full Stack.
-
+Desenvolvedor Front-end com 4 anos de experiência em desenvolvimento de software, atuando com
+Angular e React na construção de aplicações web, SPAs, dashboards, ERPs e interfaces corporativas,
+institucionais e comerciais. Experiência com JavaScript, TypeScript, HTML, CSS, SCSS, React Hooks,
+Context API, RxJS, Signals, Computed, NgRx, Axios e integração com APIs RESTful. Atuação na criação de
+componentes reutilizáveis, aplicações reativas e interfaces responsivas, utilizando bibliotecas como
+Material UI (MUI), Angular Material, Bootstrap e Tailwind CSS. Conhecimentos em Node.js, Express,
+AdonisJS e PostgreSQL. Foco em boas práticas de engenharia de software, princípios SOLID, qualidade de
+código, manutenibilidade e colaboração em equipes ágeis.
 ## **Habilidades**  
 
 ### **Linguagens de Programação:**  
