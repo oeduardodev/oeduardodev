@@ -6,8 +6,6 @@
 -->
 
 <div align="center">
-  <img src="[./assets/readme-header.svg](https://avatars.githubusercontent.com/u/94940400?v=4)" width="100%" alt="Eduardo Leite — Front-end Developer, Angular, React e TypeScript" />
-
   <br />
 
   <a href="https://www.linkedin.com/in/oeduardodev/">
