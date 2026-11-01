@@ -6,6 +6,8 @@
 -->
 
 <div align="center">
+  <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite — Front-end Developer, Angular, React e TypeScript" />
+
   <br />
 
   <a href="https://www.linkedin.com/in/oeduardodev/">
@@ -18,7 +20,7 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=c61a2b" alt="Portfólio" />
   </a>
   <a href="mailto:eduardobl.contato@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-c61a2b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-c61a2b?style=for-the-badge&amp;logo=gmail&amp;" alt="Email" />
   </a>
 
   <br /><br />
@@ -27,7 +29,7 @@
 
 ---
 
-## 01 / SOBRE MIM
+## / SOBRE MIM
 
 Sou **Eduardo Leite**, desenvolvedor Front-end com **4 anos de experiência** no desenvolvimento de aplicações web, SPAs, dashboards, ERPs e sistemas corporativos.
 
@@ -49,7 +51,7 @@ const eduardo = {
 
 ---
 
-## 02 / STACK TECNOLÓGICA
+## / STACK TECNOLÓGICA
 
 ### Front-end
 
@@ -111,7 +113,7 @@ const eduardo = {
 
 ---
 
-## 03 / EXPERIÊNCIA PROFISSIONAL
+## / EXPERIÊNCIA PROFISSIONAL
 
 | Período | Atuação | Principais responsabilidades |
 | :--- | :--- | :--- |
@@ -123,7 +125,7 @@ const eduardo = {
 
 ---
 
-## 04 / ATIVIDADE NO GITHUB
+## / ATIVIDADE NO GITHUB
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oeduardodev&amp;show_icons=true&amp;hide_border=false&amp;bg_color=080808&amp;title_color=c61a2b&amp;icon_color=c61a2b&amp;text_color=f5f5f5&amp;ring_color=c61a2b&amp;border_color=262627" alt="Estatísticas públicas do GitHub" />
