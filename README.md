@@ -1,31 +1,34 @@
 <!--
-  README de perfil — Eduardo Leite
-  Identidade: #080808 / #111111 / #111113 / #f5f5f5 / #b7b7bd / #262627 / #c61a2b / #7f0d1c
-  Fonte visual: JetBrains Mono, Consolas, monospace (nas artes e nos blocos de código).
-  Para exibir o cabeçalho, mantenha a pasta assets/ ao lado deste arquivo.
+  Perfil GitHub — Eduardo Leite
+  Identidade visual: #080808 / #111113 / #f5f5f5 / #b7b7bd / #262627 / #c61a2b
+  Cabeçalho 100% HTML/Markdown: não depende de foto, SVG ou serviço externo.
+  Os gráficos são arquivos SVG locais atualizados via GitHub Actions.
 -->
 
-
 <div align="center">
-  <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite — Front-end Developer, Angular, React e TypeScript" />
 
-  <br />
+  <h1>Eduardo Leite</h1>
+  <p><samp>FRONT-END DEVELOPER / UI ENGINEERING / WEB APPLICATIONS</samp></p>
 
-  <a href="https://www.linkedin.com/in/oeduardodev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge&logo=linkedin&logoColor=c61a2b" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/oeduardodev">
-    <img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge&logo=github&logoColor=c61a2b" alt="GitHub" />
-  </a>
-  <a href="https://oeduardodev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&logo=vercel&logoColor=c61a2b" alt="Portfólio" />
-  </a>
-  <a href="mailto:eduardobl.contato@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111113?style=for-the-badge&logo=gmail&logoColor=c61a2b" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/oeduardodev/"><code>LINKEDIN</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/oeduardodev"><code>GITHUB</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://oeduardodev.vercel.app/"><code>PORTFÓLIO</code></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:eduardobl.contato@gmail.com"><code>E-MAIL</code></a>
 
-  <br /><br />
 </div>
+
+```text
+eduardo@github:~$ profile --summary
+
+  role          Front-end Developer
+  experience    4 years
+  focus         Angular / React / TypeScript
+  location      João Pessoa, PB — Brazil
+  availability  Open to remote opportunities
+```
 
 ---
 
@@ -128,27 +131,24 @@ const eduardo = {
 ## / ATIVIDADE NO GITHUB
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oeduardodev&amp;show_icons=true&amp;hide_border=false&amp;bg_color=080808&amp;title_color=c61a2b&amp;icon_color=c61a2b&amp;text_color=f5f5f5&amp;ring_color=c61a2b&amp;border_color=262627" alt="Estatísticas públicas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeduardodev&amp;layout=compact&amp;hide_border=false&amp;bg_color=080808&amp;title_color=c61a2b&amp;text_color=f5f5f5&amp;border_color=262627&amp;langs_count=8" alt="Linguagens dos repositórios públicos" />
+  <img src="./assets/github-overview.svg" width="49%" alt="Resumo das estatísticas públicas do GitHub" />
+  <img src="./assets/github-languages.svg" width="49%" alt="Linguagens dos repositórios públicos" />
   <br /><br />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=oeduardodev&amp;bg_color=080808&amp;color=b7b7bd&amp;line=c61a2b&amp;point=f5f5f5&amp;area=true&amp;area_color=7f0d1c&amp;hide_border=false&amp;custom_title=GitHub%20Activity" alt="Gráfico de atividade no GitHub" />
+  <img src="./assets/github-activity.svg" width="98%" alt="Gráfico de contribuições públicas do GitHub" />
 </div>
 
-<sub>Os gráficos são fornecidos por serviços externos e refletem apenas a atividade pública disponibilizada pelo GitHub.</sub>
+<sub>Gráficos armazenados neste repositório e atualizados automaticamente pelo GitHub Actions. As linguagens representam o código de repositórios públicos, não o nível de domínio de cada tecnologia.</sub>
 
 ---
 
-## 05 / CONTATO
+## / CONTATO
 
 Estou aberto a **oportunidades remotas em Front-end, com Angular ou React**, e também a desafios **Full Stack com Node.js**.
 
 <div align="center">
-  <a href="mailto:eduardobl.contato@gmail.com">
-    <img src="https://img.shields.io/badge/ENTRAR_EM_CONTATO-c61a2b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail" />
-  </a>
-  <a href="https://www.linkedin.com/in/oeduardodev/">
-    <img src="https://img.shields.io/badge/CONVERSAR_NO_LINKEDIN-111113?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c61a2b" alt="LinkedIn" />
-  </a>
+  <a href="mailto:eduardobl.contato@gmail.com"><code>ENVIAR E-MAIL</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/oeduardodev/"><code>CONVERSAR NO LINKEDIN</code></a>
   <br /><br />
   <samp>Eduardo Leite · João Pessoa, PB · Brasil</samp>
 </div>
