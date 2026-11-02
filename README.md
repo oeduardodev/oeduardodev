@@ -8,7 +8,7 @@
 <div align="center">
 
   <h1>Eduardo Leite</h1>
-  <p><samp>FRONT-END DEVELOPER / UI ENGINEERING / WEB APPLICATIONS</samp></p>
+  <p><samp>FRONT-END DEVELOPER | ANGULAR | REACT </samp></p>
 
   <a href="https://www.linkedin.com/in/oeduardodev/"><code>LINKEDIN</code></a>
   &nbsp;·&nbsp;
@@ -59,16 +59,16 @@ const eduardo = {
 ### Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-111113?style=flat-square&amp;logo=angular&amp;logoColor=c61a2b" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-111113?style=flat-square&amp;logo=react&amp;logoColor=c61a2b" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-111113?style=flat-square&amp;logo=typescript&amp;logoColor=c61a2b" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111113?style=flat-square&amp;logo=javascript&amp;logoColor=c61a2b" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-111113?style=flat-square&amp;logo=html5&amp;logoColor=c61a2b" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111113?style=flat-square&amp;logo=css&amp;logoColor=c61a2b" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-111113?style=flat-square&amp;logo=sass&amp;logoColor=c61a2b" alt="SCSS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111113?style=flat-square&amp;logo=tailwindcss&amp;logoColor=c61a2b" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-111113?style=flat-square&amp;logo=bootstrap&amp;logoColor=c61a2b" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Material_UI-111113?style=flat-square&amp;logo=mui&amp;logoColor=c61a2b" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Angular-080808?style=flat-square&amp;logo=angular&amp;logoColor=c61a2b" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-080808?style=flat-square&amp;logo=react&amp;logoColor=c61a2b" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-080808?style=flat-square&amp;logo=typescript&amp;logoColor=c61a2b" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-080808?style=flat-square&amp;logo=javascript&amp;logoColor=c61a2b" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-080808?style=flat-square&amp;logo=html5&amp;logoColor=c61a2b" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-080808?style=flat-square&amp;logo=css&amp;logoColor=c61a2b" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-080808?style=flat-square&amp;logo=sass&amp;logoColor=c61a2b" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-080808?style=flat-square&amp;logo=tailwindcss&amp;logoColor=c61a2b" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-080808?style=flat-square&amp;logo=bootstrap&amp;logoColor=c61a2b" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material_UI-080808?style=flat-square&amp;logo=mui&amp;logoColor=c61a2b" alt="Material UI" />
 </p>
 
 **Estado e reatividade:** `RxJS` · `NgRx` · `Angular Signals` · `Computed` · `React Hooks` · `Context API`
@@ -78,12 +78,12 @@ const eduardo = {
 ### Back-end e bancos de dados
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-111113?style=flat-square&amp;logo=nodedotjs&amp;logoColor=c61a2b" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111113?style=flat-square&amp;logo=express&amp;logoColor=c61a2b" alt="Express" />
-  <img src="https://img.shields.io/badge/AdonisJS-111113?style=flat-square&amp;logo=adonisjs&amp;logoColor=c61a2b" alt="AdonisJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111113?style=flat-square&amp;logo=postgresql&amp;logoColor=c61a2b" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-111113?style=flat-square&amp;logo=sqlite&amp;logoColor=c61a2b" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-111113?style=flat-square&amp;logo=mysql&amp;logoColor=c61a2b" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-080808?style=flat-square&amp;logo=nodedotjs&amp;logoColor=c61a2b" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-080808?style=flat-square&amp;logo=express&amp;logoColor=c61a2b" alt="Express" />
+  <img src="https://img.shields.io/badge/AdonisJS-080808?style=flat-square&amp;logo=adonisjs&amp;logoColor=c61a2b" alt="AdonisJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-080808?style=flat-square&amp;logo=postgresql&amp;logoColor=c61a2b" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-080808?style=flat-square&amp;logo=sqlite&amp;logoColor=c61a2b" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-080808?style=flat-square&amp;logo=mysql&amp;logoColor=c61a2b" alt="MySQL" />
 </p>
 
 **Integração:** `REST APIs` · `Axios` · `Fetch API` · `SQL`
@@ -91,13 +91,13 @@ const eduardo = {
 ### Qualidade, ferramentas e processos
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111113?style=flat-square&amp;logo=git&amp;logoColor=c61a2b" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111113?style=flat-square&amp;logo=github&amp;logoColor=c61a2b" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-111113?style=flat-square&amp;logo=gitlab&amp;logoColor=c61a2b" alt="GitLab" />
-  <img src="https://img.shields.io/badge/ESLint-111113?style=flat-square&amp;logo=eslint&amp;logoColor=c61a2b" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Postman-111113?style=flat-square&amp;logo=postman&amp;logoColor=c61a2b" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jest-111113?style=flat-square&amp;logo=jest&amp;logoColor=c61a2b" alt="Jest" />
-  <img src="https://img.shields.io/badge/Jasmine-111113?style=flat-square&amp;logo=jasmine&amp;logoColor=c61a2b" alt="Jasmine" />
+  <img src="https://img.shields.io/badge/Git-080808?style=flat-square&amp;logo=git&amp;logoColor=c61a2b" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-080808?style=flat-square&amp;logo=github&amp;logoColor=c61a2b" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-080808?style=flat-square&amp;logo=gitlab&amp;logoColor=c61a2b" alt="GitLab" />
+  <img src="https://img.shields.io/badge/ESLint-080808?style=flat-square&amp;logo=eslint&amp;logoColor=c61a2b" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Postman-080808?style=flat-square&amp;logo=postman&amp;logoColor=c61a2b" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jest-080808?style=flat-square&amp;logo=jest&amp;logoColor=c61a2b" alt="Jest" />
+  <img src="https://img.shields.io/badge/Jasmine-080808?style=flat-square&amp;logo=jasmine&amp;logoColor=c61a2b" alt="Jasmine" />
 </p>
 
 `Karma` · `CI/CD` · `Scrum` · `Kanban` · `SOLID` · `Testes unitários` · `Bitbucket`
@@ -106,11 +106,11 @@ const eduardo = {
   <summary>Outras tecnologias com as quais tive contato</summary>
   <br />
   <p>
-    <img src="https://img.shields.io/badge/Python-111113?style=flat-square&amp;logo=python&amp;logoColor=c61a2b" alt="Python" />
-    <img src="https://img.shields.io/badge/PHP-111113?style=flat-square&amp;logo=php&amp;logoColor=c61a2b" alt="PHP" />
-    <img src="https://img.shields.io/badge/Java-111113?style=flat-square&amp;logo=openjdk&amp;logoColor=c61a2b" alt="Java" />
-    <img src="https://img.shields.io/badge/Ionic-111113?style=flat-square&amp;logo=ionic&amp;logoColor=c61a2b" alt="Ionic" />
-    <img src="https://img.shields.io/badge/React_Native-111113?style=flat-square&amp;logo=react&amp;logoColor=c61a2b" alt="React Native" />
+    <img src="https://img.shields.io/badge/Python-080808?style=flat-square&amp;logo=python&amp;logoColor=c61a2b" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-080808?style=flat-square&amp;logo=php&amp;logoColor=c61a2b" alt="PHP" />
+    <img src="https://img.shields.io/badge/Java-080808?style=flat-square&amp;logo=openjdk&amp;logoColor=c61a2b" alt="Java" />
+    <img src="https://img.shields.io/badge/Ionic-080808?style=flat-square&amp;logo=ionic&amp;logoColor=c61a2b" alt="Ionic" />
+    <img src="https://img.shields.io/badge/React_Native-080808?style=flat-square&amp;logo=react&amp;logoColor=c61a2b" alt="React Native" />
   </p>
 </details>
 
@@ -134,7 +134,7 @@ const eduardo = {
   <img src="./assets/github-overview.svg" width="49%" alt="Resumo das estatísticas públicas do GitHub" />
   <img src="./assets/github-languages.svg" width="49%" alt="Linguagens dos repositórios públicos" />
   <br /><br />
-  <img src="./assets/github-activity.svg" width="98%" alt="Gráfico de contribuições públicas do GitHub" />
+  <!-- <img src="./assets/github-activity.svg" width="98%" alt="Gráfico de contribuições públicas do GitHub" /> -->
 </div>
 
 <sub>Gráficos armazenados neste repositório e atualizados automaticamente pelo GitHub Actions. As linguagens representam o código de repositórios públicos, não o nível de domínio de cada tecnologia.</sub>
