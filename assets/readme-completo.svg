@@ -1,200 +1,206 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2618" viewBox="0 0 1200 2618" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="3002" viewBox="0 0 1200 3002" role="img" aria-labelledby="title desc">
 <title id="title">Eduardo Leite — perfil profissional</title>
 <desc id="desc">README completo de Eduardo Leite, desenvolvedor Front-end, em fundo preto #080808. O arquivo README-texto.md mantém o conteúdo com links ativos.</desc>
-<rect width="1200" height="2618" fill="#080808" />
-<rect x="32" y="28" width="1136" height="410" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="61" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#b7b7bd" text-anchor="start">oeduardodev / README.md</text>
-<text x="600.0" y="130" font-family="Arial, sans-serif" font-size="48px" font-weight="700" fill="#f5f5f5" text-anchor="middle">Eduardo Leite</text>
-<text x="600.0" y="167" font-family="Consolas, monospace" font-size="16px" font-weight="700" fill="#f5f5f5" text-anchor="middle">FRONT-END DEVELOPER  |  ANGULAR  |  REACT</text>
-<line x1="62" y1="186" x2="1138" y2="186" stroke="#262627" />
-<rect x="395" y="202" width="98" height="30" rx="7" fill="#080808" stroke="#262627" />
-<text x="444.0" y="222" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#58a6ff" text-anchor="middle">LINKEDIN</text>
-<rect x="507" y="202" width="82" height="30" rx="7" fill="#080808" stroke="#262627" />
-<text x="548.0" y="222" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#58a6ff" text-anchor="middle">GITHUB</text>
-<rect x="603" y="202" width="106" height="30" rx="7" fill="#080808" stroke="#262627" />
-<text x="656.0" y="222" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#58a6ff" text-anchor="middle">PORTFÓLIO</text>
-<rect x="723" y="202" width="82" height="30" rx="7" fill="#080808" stroke="#262627" />
-<text x="764.0" y="222" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#58a6ff" text-anchor="middle">E-MAIL</text>
-<rect x="62" y="252" width="1076" height="157" rx="9" fill="#080808" stroke="#262627" />
-<text x="82" y="279" font-family="Consolas, monospace" font-size="14px" font-weight="700" fill="#c61a2b" text-anchor="start">eduardo@github:~$ profile --summary</text>
-<text x="82" y="305" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">role          Front-end Developer</text>
-<text x="82" y="325" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">experience    4 years</text>
-<text x="82" y="345" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">focus         Angular / React / TypeScript</text>
-<text x="82" y="365" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">location      João Pessoa, PB — Brazil</text>
-<text x="82" y="385" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">availability  Open to remote opportunities</text>
-<rect x="32" y="458" width="1136" height="521" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="501" font-family="Consolas, monospace" font-size="23px" font-weight="700" fill="#c61a2b" text-anchor="start">01  /  SOBRE MIM</text>
-<line x1="62" y1="515" x2="1138" y2="515" stroke="#262627" stroke-width="1" />
-<text x="62" y="535" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">Sou Eduardo Leite, desenvolvedor Front-end com 4 anos de experiência no desenvolvimento de aplicações web, SPAs, dashboards, ERPs e sistemas</text>
-<text x="62" y="560" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">corporativos.</text>
-<text x="62" y="599" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">Minha principal atuação é com Angular, React e TypeScript, desde a criação de interfaces responsivas e componentes reutilizáveis até a integração</text>
-<text x="62" y="624" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">com APIs REST e o gerenciamento de estado. Também tenho conhecimentos em Node.js, Express, AdonisJS e PostgreSQL, que ampliam minha visão</text>
-<text x="62" y="649" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">sobre o funcionamento das aplicações de ponta a ponta.</text>
-<text x="62" y="688" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">No dia a dia, valorizo código bem estruturado, acessibilidade, manutenibilidade, testes e colaboração com o time.</text>
-<rect x="62" y="703" width="1076" height="232" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="80" y="729" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">const eduardo = {</text>
-<text x="80" y="751" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  role: &#x27;Front-end Developer&#x27;,</text>
-<text x="80" y="773" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  experience: &#x27;4 anos&#x27;,</text>
-<text x="80" y="795" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  location: &#x27;João Pessoa, PB&#x27;,</text>
-<text x="80" y="817" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  mainStack: [&#x27;Angular&#x27;, &#x27;React&#x27;, &#x27;TypeScript&#x27;],</text>
-<text x="80" y="839" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  backend: [&#x27;Node.js&#x27;, &#x27;Express&#x27;, &#x27;AdonisJS&#x27;],</text>
-<text x="80" y="861" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  principles: [&#x27;SOLID&#x27;, &#x27;Acessibilidade&#x27;, &#x27;Clean Code&#x27;],</text>
-<text x="80" y="883" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">  availableFor: &#x27;Oportunidades remotas&#x27;</text>
-<text x="80" y="905" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#f5f5f5" text-anchor="start">} as const;</text>
-<rect x="32" y="999" width="1136" height="571" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="1042" font-family="Consolas, monospace" font-size="23px" font-weight="700" fill="#c61a2b" text-anchor="start">02  /  STACK TECNOLÓGICA</text>
-<line x1="62" y1="1056" x2="1138" y2="1056" stroke="#262627" stroke-width="1" />
-<text x="62" y="1076" font-family="Arial, sans-serif" font-size="18px" font-weight="700" fill="#f5f5f5" text-anchor="start">Front-end</text>
-<rect x="62" y="1090" width="98" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="86" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">ANGULAR</text>
-<rect x="170" y="1090" width="82" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="183" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="194" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">REACT</text>
-<rect x="262" y="1090" width="122" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="275" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="286" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">TYPESCRIPT</text>
-<rect x="394" y="1090" width="122" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="407" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="418" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">JAVASCRIPT</text>
-<rect x="526" y="1090" width="82" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="539" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="550" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">HTML5</text>
-<rect x="618" y="1090" width="74" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="631" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="642" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS3</text>
-<rect x="702" y="1090" width="74" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="715" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="726" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">SCSS</text>
-<rect x="786" y="1090" width="138" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="799" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="810" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">TAILWIND CSS</text>
-<rect x="934" y="1090" width="114" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="947" cy="1104.5" r="4" fill="#c61a2b" />
-<text x="958" y="1109" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">BOOTSTRAP</text>
-<rect x="62" y="1129" width="130" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="1143.5" r="4" fill="#c61a2b" />
-<text x="86" y="1148" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">MATERIAL UI</text>
-<text x="62" y="1189" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Estado e reatividade: RxJS · NgRx · Angular Signals · Computed · React Hooks · Context API</text>
-<text x="62" y="1227" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Componentização e UI: Angular Material · Nebular · Styled Components · Design Systems</text>
-<text x="62" y="1268" font-family="Arial, sans-serif" font-size="18px" font-weight="700" fill="#f5f5f5" text-anchor="start">Back-end e bancos de dados</text>
-<rect x="62" y="1282" width="98" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="86" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">NODE.JS</text>
-<rect x="170" y="1282" width="98" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="183" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="194" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">EXPRESS</text>
-<rect x="278" y="1282" width="106" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="291" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="302" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">ADONISJS</text>
-<rect x="394" y="1282" width="122" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="407" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="418" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">POSTGRESQL</text>
-<rect x="526" y="1282" width="90" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="539" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="550" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">SQLITE</text>
-<rect x="626" y="1282" width="82" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="639" cy="1296.5" r="4" fill="#c61a2b" />
-<text x="650" y="1301" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">MYSQL</text>
-<text x="62" y="1342" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Integração: REST APIs · Axios · Fetch API · SQL</text>
-<text x="62" y="1381" font-family="Arial, sans-serif" font-size="18px" font-weight="700" fill="#f5f5f5" text-anchor="start">Qualidade, ferramentas e processos</text>
-<rect x="62" y="1395" width="66" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="86" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">GIT</text>
-<rect x="138" y="1395" width="90" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="151" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="162" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">GITHUB</text>
-<rect x="238" y="1395" width="90" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="251" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="262" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">GITLAB</text>
-<rect x="338" y="1395" width="90" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="351" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="362" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">ESLINT</text>
-<rect x="438" y="1395" width="98" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="451" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="462" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">POSTMAN</text>
-<rect x="546" y="1395" width="74" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="559" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="570" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">JEST</text>
-<rect x="630" y="1395" width="98" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="643" cy="1409.5" r="4" fill="#c61a2b" />
-<text x="654" y="1414" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">JASMINE</text>
-<text x="62" y="1455" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Karma · CI/CD · Scrum · Kanban · SOLID · Testes unitários · Bitbucket</text>
-<text x="62" y="1492" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">Outras tecnologias com as quais tive contato:</text>
-<rect x="62" y="1500" width="90" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="1514.5" r="4" fill="#c61a2b" />
-<text x="86" y="1519" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">PYTHON</text>
-<rect x="162" y="1500" width="66" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="175" cy="1514.5" r="4" fill="#c61a2b" />
-<text x="186" y="1519" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">PHP</text>
-<rect x="238" y="1500" width="74" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="251" cy="1514.5" r="4" fill="#c61a2b" />
-<text x="262" y="1519" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">JAVA</text>
-<rect x="322" y="1500" width="82" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="335" cy="1514.5" r="4" fill="#c61a2b" />
-<text x="346" y="1519" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">IONIC</text>
-<rect x="414" y="1500" width="138" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="427" cy="1514.5" r="4" fill="#c61a2b" />
-<text x="438" y="1519" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">REACT NATIVE</text>
-<rect x="32" y="1590" width="1136" height="372" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="1633" font-family="Consolas, monospace" font-size="23px" font-weight="700" fill="#c61a2b" text-anchor="start">03  /  EXPERIÊNCIA PROFISSIONAL</text>
-<line x1="62" y1="1647" x2="1138" y2="1647" stroke="#262627" stroke-width="1" />
-<rect x="62" y="1650" width="1076" height="73" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="80" y="1676" font-family="Consolas, monospace" font-size="14px" font-weight="700" fill="#c61a2b" text-anchor="start">2025 — 2026</text>
-<text x="212" y="1676" font-family="Arial, sans-serif" font-size="16px" font-weight="700" fill="#f5f5f5" text-anchor="start">Vox Tecnologia · Front-end</text>
-<text x="80" y="1702" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Interfaces para ERPs municipais, componentes reutilizáveis, design systems, microfrontends, APIs REST e testes com Jasmine/Karma.</text>
-<rect x="62" y="1735" width="1076" height="73" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="80" y="1761" font-family="Consolas, monospace" font-size="14px" font-weight="700" fill="#c61a2b" text-anchor="start">2023 — 2025</text>
-<text x="212" y="1761" font-family="Arial, sans-serif" font-size="16px" font-weight="700" fill="#f5f5f5" text-anchor="start">Data Core Solutions Services · Front-end</text>
-<text x="80" y="1787" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">SPAs, dashboards, aplicações responsivas com Angular e React, gerenciamento de estado, acessibilidade e Ionic.</text>
-<rect x="62" y="1820" width="1076" height="73" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="80" y="1846" font-family="Consolas, monospace" font-size="14px" font-weight="700" fill="#c61a2b" text-anchor="start">2022 — 2023</text>
-<text x="212" y="1846" font-family="Arial, sans-serif" font-size="16px" font-weight="700" fill="#f5f5f5" text-anchor="start">CL Importados · Full Stack / Freelance</text>
-<text x="80" y="1872" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Interfaces e aplicações comerciais responsivas, integração de APIs e desenvolvimento de serviços com Node.js, Express e AdonisJS.</text>
-<text x="62" y="1922" font-family="Arial, sans-serif" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">Formação acadêmica: Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade VINCIT (2023–2025).</text>
-<rect x="32" y="1982" width="1136" height="368" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="2025" font-family="Consolas, monospace" font-size="23px" font-weight="700" fill="#c61a2b" text-anchor="start">04  /  ATIVIDADE NO GITHUB</text>
-<line x1="62" y1="2039" x2="1138" y2="2039" stroke="#262627" stroke-width="1" />
-<rect x="62" y="2042" width="529" height="210" rx="10" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="82" y="2073" font-family="Consolas, monospace" font-size="16px" font-weight="700" fill="#c61a2b" text-anchor="start">GITHUB / VISÃO GERAL</text>
-<line x1="82" y1="2087" x2="571" y2="2087" stroke="#262627" />
-<text x="82.0" y="2147" font-family="Arial, sans-serif" font-size="34px" font-weight="700" fill="#f5f5f5" text-anchor="start">39</text>
-<text x="82.0" y="2175" font-family="Consolas, monospace" font-size="12px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS</text>
-<text x="245.0" y="2147" font-family="Arial, sans-serif" font-size="34px" font-weight="700" fill="#f5f5f5" text-anchor="start">4</text>
-<text x="245.0" y="2175" font-family="Consolas, monospace" font-size="12px" font-weight="400" fill="#b7b7bd" text-anchor="start">ESTRELAS</text>
-<text x="408.0" y="2147" font-family="Arial, sans-serif" font-size="34px" font-weight="700" fill="#f5f5f5" text-anchor="start">92</text>
-<text x="408.0" y="2175" font-family="Consolas, monospace" font-size="12px" font-weight="400" fill="#b7b7bd" text-anchor="start">CONTRIBUIÇÕES 12M</text>
-<text x="82" y="2225" font-family="Consolas, monospace" font-size="11px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS PÚBLICOS / DADOS DO PERFIL</text>
-<rect x="609" y="2042" width="529" height="210" rx="10" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="629" y="2073" font-family="Consolas, monospace" font-size="16px" font-weight="700" fill="#c61a2b" text-anchor="start">GITHUB / LINGUAGENS</text>
-<line x1="629" y1="2087" x2="1118" y2="2087" stroke="#262627" />
-<text x="629" y="2121" font-family="Arial, sans-serif" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">TypeScript</text>
-<rect x="779" y="2110" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2110" width="334.0" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2148" font-family="Arial, sans-serif" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS</text>
-<rect x="779" y="2137" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2137" width="146.8" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2175" font-family="Arial, sans-serif" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">HTML</text>
-<rect x="779" y="2164" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2164" width="135.5" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2202" font-family="Arial, sans-serif" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">JavaScript</text>
-<rect x="779" y="2191" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2191" width="49.9" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2229" font-family="Arial, sans-serif" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">Java</text>
-<rect x="779" y="2218" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2218" width="35.8" height="8" rx="4" fill="#c61a2b" />
-<text x="62" y="2289" font-family="Arial, sans-serif" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">Gráficos armazenados neste repositório e atualizados automaticamente pelo GitHub Actions. As linguagens representam o código de repositórios públicos, não o nível</text>
-<text x="62" y="2311" font-family="Arial, sans-serif" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">de domínio de cada tecnologia.</text>
-<rect x="32" y="2370" width="1136" height="188" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
-<text x="62" y="2413" font-family="Consolas, monospace" font-size="23px" font-weight="700" fill="#c61a2b" text-anchor="start">05  /  CONTATO</text>
-<line x1="62" y1="2427" x2="1138" y2="2427" stroke="#262627" stroke-width="1" />
-<text x="62" y="2447" font-family="Arial, sans-serif" font-size="16px" font-weight="400" fill="#f5f5f5" text-anchor="start">Estou aberto a oportunidades remotas em Front-end, com Angular ou React, e também a desafios Full Stack com Node.js.</text>
-<rect x="62" y="2463" width="146" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="75" cy="2477.5" r="4" fill="#c61a2b" />
-<text x="86" y="2482" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">ENVIAR E-MAIL</text>
-<rect x="218" y="2463" width="210" height="29" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
-<circle cx="231" cy="2477.5" r="4" fill="#c61a2b" />
-<text x="242" y="2482" font-family="Consolas, monospace" font-size="13px" font-weight="400" fill="#f5f5f5" text-anchor="start">CONVERSAR NO LINKEDIN</text>
-<text x="600.0" y="2527" font-family="Consolas, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="middle">Eduardo Leite  ·  João Pessoa, PB  ·  Brasil</text>
-<text x="600.0" y="2580" font-family="Consolas, monospace" font-size="12px" font-weight="400" fill="#b7b7bd" text-anchor="middle">VERSÃO EM TEXTO COM LINKS INTERATIVOS: README-texto.md</text>
+<rect width="1200" height="3002" fill="#080808" />
+<rect x="32" y="28" width="1136" height="430" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="64" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#b7b7bd" text-anchor="start">oeduardodev / README.md</text>
+<text x="600.0" y="140" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="56px" font-weight="700" fill="#f5f5f5" text-anchor="middle">Eduardo Leite</text>
+<text x="600.0" y="181" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#f5f5f5" text-anchor="middle">FRONT-END DEVELOPER  |  ANGULAR  |  REACT</text>
+<line x1="62" y1="201" x2="1138" y2="201" stroke="#262627" />
+<rect x="368" y="218" width="112" height="36" rx="7" fill="#080808" stroke="#262627" />
+<text x="424.0" y="242" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#58a6ff" text-anchor="middle">LINKEDIN</text>
+<rect x="494" y="218" width="94" height="36" rx="7" fill="#080808" stroke="#262627" />
+<text x="541.0" y="242" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#58a6ff" text-anchor="middle">GITHUB</text>
+<rect x="602" y="218" width="121" height="36" rx="7" fill="#080808" stroke="#262627" />
+<text x="662.5" y="242" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#58a6ff" text-anchor="middle">PORTFÓLIO</text>
+<rect x="737" y="218" width="94" height="36" rx="7" fill="#080808" stroke="#262627" />
+<text x="784.0" y="242" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#58a6ff" text-anchor="middle">E-MAIL</text>
+<rect x="62" y="270" width="1076" height="172" rx="9" fill="#080808" stroke="#262627" />
+<text x="82" y="300" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="700" fill="#c61a2b" text-anchor="start">eduardo@github:~$ profile --summary</text>
+<text x="82" y="329" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">role          Front-end Developer</text>
+<text x="82" y="352" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">experience    4 years</text>
+<text x="82" y="375" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">focus         Angular / React / TypeScript</text>
+<text x="82" y="398" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">location      João Pessoa, PB — Brazil</text>
+<text x="82" y="421" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">availability  Open to remote opportunities</text>
+<rect x="32" y="478" width="1136" height="643" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="523" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="27px" font-weight="700" fill="#c61a2b" text-anchor="start">01  /  SOBRE MIM</text>
+<line x1="62" y1="535" x2="1138" y2="535" stroke="#262627" stroke-width="1" />
+<text x="62" y="555" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">Sou Eduardo Leite, desenvolvedor Front-end com 4 anos de experiência no desenvolvimento de aplicações web,</text>
+<text x="62" y="584" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">SPAs, dashboards, ERPs e sistemas corporativos.</text>
+<text x="62" y="627" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">Minha principal atuação é com Angular, React e TypeScript, desde a criação de interfaces responsivas e</text>
+<text x="62" y="656" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">componentes reutilizáveis até a integração com APIs REST e o gerenciamento de estado. Também tenho</text>
+<text x="62" y="685" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">conhecimentos em Node.js, Express, AdonisJS e PostgreSQL, que ampliam minha visão sobre o funcionamento das</text>
+<text x="62" y="714" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">aplicações de ponta a ponta.</text>
+<text x="62" y="757" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">No dia a dia, valorizo código bem estruturado, acessibilidade, manutenibilidade, testes e colaboração com o</text>
+<text x="62" y="786" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">time.</text>
+<rect x="62" y="805" width="1076" height="272" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="80" y="831" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">const eduardo = {</text>
+<text x="80" y="857" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  role: &#x27;Front-end Developer&#x27;,</text>
+<text x="80" y="883" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  experience: &#x27;4 anos&#x27;,</text>
+<text x="80" y="909" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  location: &#x27;João Pessoa, PB&#x27;,</text>
+<text x="80" y="935" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  mainStack: [&#x27;Angular&#x27;, &#x27;React&#x27;, &#x27;TypeScript&#x27;],</text>
+<text x="80" y="961" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  backend: [&#x27;Node.js&#x27;, &#x27;Express&#x27;, &#x27;AdonisJS&#x27;],</text>
+<text x="80" y="987" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  principles: [&#x27;SOLID&#x27;, &#x27;Acessibilidade&#x27;, &#x27;Clean Code&#x27;],</text>
+<text x="80" y="1013" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">  availableFor: &#x27;Oportunidades remotas&#x27;</text>
+<text x="80" y="1039" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">} as const;</text>
+<rect x="32" y="1141" width="1136" height="641" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="1186" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="27px" font-weight="700" fill="#c61a2b" text-anchor="start">02  /  STACK TECNOLÓGICA</text>
+<line x1="62" y1="1198" x2="1138" y2="1198" stroke="#262627" stroke-width="1" />
+<text x="62" y="1218" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="21px" font-weight="700" fill="#f5f5f5" text-anchor="start">Front-end</text>
+<rect x="62" y="1238" width="111" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="90" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">ANGULAR</text>
+<rect x="183" y="1238" width="93" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="197" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="211" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">REACT</text>
+<rect x="286" y="1238" width="138" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="300" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="314" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">TYPESCRIPT</text>
+<rect x="434" y="1238" width="138" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="448" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="462" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JAVASCRIPT</text>
+<rect x="582" y="1238" width="93" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="596" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="610" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">HTML5</text>
+<rect x="685" y="1238" width="84" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="699" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="713" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS3</text>
+<rect x="779" y="1238" width="84" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="793" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="807" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">SCSS</text>
+<rect x="873" y="1238" width="156" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="887" cy="1255" r="4.5" fill="#c61a2b" />
+<text x="901" y="1261" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">TAILWIND CSS</text>
+<rect x="62" y="1277" width="129" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="1294" r="4.5" fill="#c61a2b" />
+<text x="90" y="1300" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">BOOTSTRAP</text>
+<rect x="201" y="1277" width="147" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="215" cy="1294" r="4.5" fill="#c61a2b" />
+<text x="229" y="1300" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">MATERIAL UI</text>
+<text x="62" y="1342" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Estado e reatividade: RxJS · NgRx · Angular Signals · Computed · React Hooks · Context API</text>
+<text x="62" y="1386" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Componentização e UI: Angular Material · Nebular · Styled Components · Design Systems</text>
+<text x="62" y="1434" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="21px" font-weight="700" fill="#f5f5f5" text-anchor="start">Back-end e bancos de dados</text>
+<rect x="62" y="1454" width="111" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="90" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">NODE.JS</text>
+<rect x="183" y="1454" width="111" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="197" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="211" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">EXPRESS</text>
+<rect x="304" y="1454" width="120" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="318" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="332" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">ADONISJS</text>
+<rect x="434" y="1454" width="138" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="448" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="462" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">POSTGRESQL</text>
+<rect x="582" y="1454" width="102" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="596" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="610" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">SQLITE</text>
+<rect x="694" y="1454" width="93" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="708" cy="1471" r="4.5" fill="#c61a2b" />
+<text x="722" y="1477" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">MYSQL</text>
+<text x="62" y="1519" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Integração: REST APIs · Axios · Fetch API · SQL</text>
+<text x="62" y="1565" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="21px" font-weight="700" fill="#f5f5f5" text-anchor="start">Qualidade, ferramentas e processos</text>
+<rect x="62" y="1585" width="75" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="90" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">GIT</text>
+<rect x="147" y="1585" width="102" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="161" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="175" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">GITHUB</text>
+<rect x="259" y="1585" width="102" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="273" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="287" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">GITLAB</text>
+<rect x="371" y="1585" width="102" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="385" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="399" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">ESLINT</text>
+<rect x="483" y="1585" width="111" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="497" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="511" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">POSTMAN</text>
+<rect x="604" y="1585" width="84" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="618" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="632" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JEST</text>
+<rect x="698" y="1585" width="111" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="712" cy="1602" r="4.5" fill="#c61a2b" />
+<text x="726" y="1608" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JASMINE</text>
+<text x="62" y="1650" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Karma · CI/CD · Scrum · Kanban · SOLID · Testes unitários · Bitbucket</text>
+<text x="62" y="1694" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#f5f5f5" text-anchor="start">Outras tecnologias com as quais tive contato:</text>
+<rect x="62" y="1707" width="102" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="1724" r="4.5" fill="#c61a2b" />
+<text x="90" y="1730" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">PYTHON</text>
+<rect x="174" y="1707" width="75" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="188" cy="1724" r="4.5" fill="#c61a2b" />
+<text x="202" y="1730" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">PHP</text>
+<rect x="259" y="1707" width="84" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="273" cy="1724" r="4.5" fill="#c61a2b" />
+<text x="287" y="1730" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JAVA</text>
+<rect x="353" y="1707" width="93" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="367" cy="1724" r="4.5" fill="#c61a2b" />
+<text x="381" y="1730" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">IONIC</text>
+<rect x="456" y="1707" width="156" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="470" cy="1724" r="4.5" fill="#c61a2b" />
+<text x="484" y="1730" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">REACT NATIVE</text>
+<rect x="32" y="1802" width="1136" height="497" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="1847" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="27px" font-weight="700" fill="#c61a2b" text-anchor="start">03  /  EXPERIÊNCIA PROFISSIONAL</text>
+<line x1="62" y1="1859" x2="1138" y2="1859" stroke="#262627" stroke-width="1" />
+<rect x="62" y="1862" width="1076" height="110" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="80" y="1891" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="700" fill="#c61a2b" text-anchor="start">2025 — 2026</text>
+<text x="212" y="1891" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#f5f5f5" text-anchor="start">Vox Tecnologia · Front-end</text>
+<text x="80" y="1920" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">Interfaces para ERPs municipais, componentes reutilizáveis, design systems, microfrontends, APIs REST</text>
+<text x="80" y="1946" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">e testes com Jasmine/Karma.</text>
+<rect x="62" y="1987" width="1076" height="110" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="80" y="2016" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="700" fill="#c61a2b" text-anchor="start">2023 — 2025</text>
+<text x="212" y="2016" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#f5f5f5" text-anchor="start">Data Core Solutions Services · Front-end</text>
+<text x="80" y="2045" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">SPAs, dashboards, aplicações responsivas com Angular e React, gerenciamento de estado, acessibilidade</text>
+<text x="80" y="2071" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">e Ionic.</text>
+<rect x="62" y="2112" width="1076" height="110" rx="9" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="80" y="2141" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="700" fill="#c61a2b" text-anchor="start">2022 — 2023</text>
+<text x="212" y="2141" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#f5f5f5" text-anchor="start">CL Importados · Full Stack / Freelance</text>
+<text x="80" y="2170" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">Interfaces e aplicações comerciais responsivas, integração de APIs e desenvolvimento de serviços com</text>
+<text x="80" y="2196" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18px" font-weight="400" fill="#b7b7bd" text-anchor="start">Node.js, Express e AdonisJS.</text>
+<text x="62" y="2254" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Formação acadêmica: Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade VINCIT (2023–2025).</text>
+<rect x="32" y="2319" width="1136" height="377" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="2364" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="27px" font-weight="700" fill="#c61a2b" text-anchor="start">04  /  ATIVIDADE NO GITHUB</text>
+<line x1="62" y1="2376" x2="1138" y2="2376" stroke="#262627" stroke-width="1" />
+<rect x="62" y="2379" width="529" height="225" rx="10" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="82" y="2415" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#c61a2b" text-anchor="start">GITHUB / VISÃO GERAL</text>
+<line x1="82" y1="2431" x2="571" y2="2431" stroke="#262627" />
+<text x="82.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">39</text>
+<text x="82.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS</text>
+<text x="245.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">4</text>
+<text x="245.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">ESTRELAS</text>
+<text x="408.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">94</text>
+<text x="408.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">CONTRIBUIÇÕES 12M</text>
+<text x="82" y="2562" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS PÚBLICOS / DADOS DO PERFIL</text>
+<rect x="609" y="2379" width="529" height="220" rx="10" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="629" y="2415" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="700" fill="#c61a2b" text-anchor="start">GITHUB / LINGUAGENS</text>
+<line x1="629" y1="2431" x2="1118" y2="2431" stroke="#262627" />
+<text x="629" y="2463" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">TypeScript</text>
+<rect x="779" y="2451" width="334" height="8" rx="4" fill="#262627" />
+<rect x="779" y="2451" width="334.0" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2491" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS</text>
+<rect x="779" y="2479" width="334" height="8" rx="4" fill="#262627" />
+<rect x="779" y="2479" width="146.8" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2519" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">HTML</text>
+<rect x="779" y="2507" width="334" height="8" rx="4" fill="#262627" />
+<rect x="779" y="2507" width="135.5" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2547" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JavaScript</text>
+<rect x="779" y="2535" width="334" height="8" rx="4" fill="#262627" />
+<rect x="779" y="2535" width="49.9" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2575" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">Java</text>
+<rect x="779" y="2563" width="334" height="8" rx="4" fill="#262627" />
+<rect x="779" y="2563" width="35.8" height="8" rx="4" fill="#c61a2b" />
+<text x="62" y="2626" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Gráficos armazenados neste repositório e atualizados automaticamente pelo GitHub Actions. As linguagens representam o</text>
+<text x="62" y="2652" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">código de repositórios públicos, não o nível de domínio de cada tecnologia.</text>
+<rect x="32" y="2716" width="1136" height="226" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
+<text x="62" y="2761" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="27px" font-weight="700" fill="#c61a2b" text-anchor="start">05  /  CONTATO</text>
+<line x1="62" y1="2773" x2="1138" y2="2773" stroke="#262627" stroke-width="1" />
+<text x="62" y="2793" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">Estou aberto a oportunidades remotas em Front-end, com Angular ou React, e também a desafios Full Stack com</text>
+<text x="62" y="2822" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19px" font-weight="400" fill="#f5f5f5" text-anchor="start">Node.js.</text>
+<rect x="62" y="2842" width="165" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="76" cy="2859" r="4.5" fill="#c61a2b" />
+<text x="90" y="2865" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">ENVIAR E-MAIL</text>
+<rect x="237" y="2842" width="237" height="34" rx="7" fill="#080808" stroke="#262627" stroke-width="1" />
+<circle cx="251" cy="2859" r="4.5" fill="#c61a2b" />
+<text x="265" y="2865" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">CONVERSAR NO LINKEDIN</text>
+<text x="600.0" y="2911" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="middle">Eduardo Leite  ·  João Pessoa, PB  ·  Brasil</text>
+<text x="600.0" y="2964" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="middle">VERSÃO EM TEXTO COM LINKS INTERATIVOS: README-texto.md</text>
 </svg>
