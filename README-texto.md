@@ -6,20 +6,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite — Front-end Developer, Angular, React e TypeScript" />
-
-  <br />
-  <h1>Eduardo Leite</h1>
-  <p><samp>FRONT-END DEVELOPER | ANGULAR | REACT </samp></p>
-
-  <a href="https://www.linkedin.com/in/oeduardodev/"><code>LINKEDIN</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/oeduardodev"><code>GITHUB</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://oeduardodev.vercel.app/"><code>PORTFÓLIO</code></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:eduardobl.contato@gmail.com"><code>E-MAIL</code></a>
-
+  <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite - Front-end Developer, Angular, React e TypeScript" />
 </div>
 
 ```text
