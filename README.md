@@ -7,6 +7,22 @@
 
 <div align="center">
   <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite - Front-end Developer, Angular, React e TypeScript" />
+    <br />
+
+  <a href="https://www.linkedin.com/in/oeduardodev/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c61a2b" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/oeduardodev">
+    <img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge&amp;logo=github&amp;logoColor=c61a2b" alt="GitHub" />
+  </a>
+  <a href="https://oeduardodev.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=c61a2b" alt="Portfólio" />
+  </a>
+  <a href="mailto:eduardobl.contato@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-c61a2b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+
+  <br /><br />
 </div>
 
 ```text
