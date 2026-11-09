@@ -167,7 +167,7 @@
 <text x="82.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS</text>
 <text x="245.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">4</text>
 <text x="245.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">ESTRELAS</text>
-<text x="408.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">217</text>
+<text x="408.0" y="2494" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="40px" font-weight="700" fill="#f5f5f5" text-anchor="start">262</text>
 <text x="408.0" y="2526" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="14px" font-weight="400" fill="#b7b7bd" text-anchor="start">CONTRIBUIÇÕES 12M</text>
 <text x="82" y="2562" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13px" font-weight="400" fill="#b7b7bd" text-anchor="start">REPOSITÓRIOS PÚBLICOS / DADOS DO PERFIL</text>
 <rect x="609" y="2379" width="529" height="220" rx="10" fill="#080808" stroke="#262627" stroke-width="1" />
@@ -178,16 +178,16 @@
 <rect x="779" y="2451" width="334.0" height="8" rx="4" fill="#c61a2b" />
 <text x="629" y="2491" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">HTML</text>
 <rect x="779" y="2479" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2479" width="143.9" height="8" rx="4" fill="#c61a2b" />
+<rect x="779" y="2479" width="115.7" height="8" rx="4" fill="#c61a2b" />
 <text x="629" y="2519" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">PLpgSQL</text>
 <rect x="779" y="2507" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2507" width="128.9" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2547" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS</text>
+<rect x="779" y="2507" width="103.5" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2547" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JavaScript</text>
 <rect x="779" y="2535" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2535" width="59.3" height="8" rx="4" fill="#c61a2b" />
-<text x="629" y="2575" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">JavaScript</text>
+<rect x="779" y="2535" width="66.8" height="8" rx="4" fill="#c61a2b" />
+<text x="629" y="2575" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15px" font-weight="400" fill="#f5f5f5" text-anchor="start">CSS</text>
 <rect x="779" y="2563" width="334" height="8" rx="4" fill="#262627" />
-<rect x="779" y="2563" width="34.8" height="8" rx="4" fill="#c61a2b" />
+<rect x="779" y="2563" width="47.0" height="8" rx="4" fill="#c61a2b" />
 <text x="62" y="2626" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">Gráficos armazenados neste repositório e atualizados automaticamente pelo GitHub Actions. As linguagens</text>
 <text x="62" y="2652" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17px" font-weight="400" fill="#b7b7bd" text-anchor="start">representam o código de repositórios públicos, não o nível de domínio de cada tecnologia.</text>
 <rect x="32" y="2716" width="1136" height="226" rx="14" fill="#080808" stroke="#262627" stroke-width="1" />
