@@ -7,18 +7,6 @@
 
 <div align="center">
   <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite - Front-end Developer, Angular, React e TypeScript" />
-  <a href="https://www.linkedin.com/in/oeduardodev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge" alt="LinkedIn" />
-</a>
-<a href="https://github.com/oeduardodev">
-  <img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge" alt="GitHub" />
-</a>
-<a href="https://oeduardodev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge" alt="Portfólio" />
-</a>
-<a href="mailto:eduardobl.contato@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111113?style=for-the-badge" alt="Email" />
-</a>
 </div>
 
 ```text
