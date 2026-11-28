@@ -7,22 +7,6 @@
 
 <div align="center">
   <img src="./assets/readme-header.svg" width="100%" alt="Eduardo Leite - Front-end Developer, Angular, React e TypeScript" />
-    <br />
-
-  <a href="https://www.linkedin.com/in/oeduardodev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c61a2b" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/oeduardodev">
-    <img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge&amp;logo=github&amp;logoColor=c61a2b" alt="GitHub" />
-  </a>
-  <a href="https://oeduardodev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=c61a2b" alt="Portfólio" />
-  </a>
-  <a href="mailto:eduardobl.contato@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-c61a2b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-
-  <br /><br />
 </div>
 
 ```text
@@ -39,7 +23,7 @@ eduardo@github:~$ profile --summary
 
 ## / SOBRE MIM
 
-Sou **Eduardo Leite**, desenvolvedor Front-end com **4 anos de experiência** no desenvolvimento de aplicações web, SPAs, dashboards, ERPs e sistemas corporativos.
+Sou **Eduardo Leite**, desenvolvedor com **4 anos de experiência** no desenvolvimento de aplicações web, SPAs, dashboards, ERPs e sistemas corporativos.
 
 Minha principal atuação é com **Angular, React e TypeScript**, desde a criação de interfaces responsivas e componentes reutilizáveis até a integração com APIs REST e o gerenciamento de estado. Também tenho conhecimentos em **Node.js, Express, AdonisJS e PostgreSQL**, que ampliam minha visão sobre o funcionamento das aplicações de ponta a ponta.
 
@@ -50,8 +34,8 @@ const eduardo = {
   role: 'Front-end Developer',
   experience: '4 anos',
   location: 'João Pessoa, PB',
-  mainStack: ['Angular', 'React', 'TypeScript'],
-  backend: ['Node.js', 'Express', 'AdonisJS'],
+  frontend: ['Angular', 'React', 'TypeScript','Next'],
+  backend: ['Node.js', 'Express', 'AdonisJS', 'Nest'],
   principles: ['SOLID', 'Acessibilidade', 'Clean Code'],
   availableFor: 'Oportunidades remotas'
 } as const;
@@ -151,9 +135,18 @@ const eduardo = {
 Estou aberto a **oportunidades remotas em Front-end, com Angular ou React**, e também a desafios **Full Stack com Node.js**.
 
 <div align="center">
-  <a href="mailto:eduardobl.contato@gmail.com"><code>ENVIAR E-MAIL</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/oeduardodev/"><code>CONVERSAR NO LINKEDIN</code></a>
+  <a href="https://www.linkedin.com/in/oeduardodev/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111113?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c61a2b" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/oeduardodev">
+    <img src="https://img.shields.io/badge/GITHUB-111113?style=for-the-badge&amp;logo=github&amp;logoColor=c61a2b" alt="GitHub" />
+  </a>
+  <a href="https://oeduardodev.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=c61a2b" alt="Portfólio" />
+  </a>
+  <a href="mailto:eduardobl.contato@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-c61a2b?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+
   <br /><br />
-  <samp>Eduardo Leite · João Pessoa, PB · Brasil</samp>
 </div>
